@@ -26,13 +26,9 @@ Automation Builder is a powerful desktop automation tool that allows you to crea
 
 ## Getting Started
 
-### Installation Requirements
-- Python 3.7+
-- PyQt6
-- PyAutoGUI (optional, for actual automation execution)
 
 ### First Launch
-1. Run the application: `python automation_builder.py`
+1. Run the application: `Automation_builder.exe`
 2. The main window will open with an empty sequence editor
 3. You're ready to start building your first automation!
 
