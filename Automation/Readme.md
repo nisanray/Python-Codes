@@ -1,9 +1,5 @@
 # Automation Builder
 
-**Author:** nisanray  
-**GitHub:** [https://github.com/nisanray](https://github.com/nisanray)  
-**Email:** nisanray@gmail.com
-
 A powerful GUI application for creating and running automation sequences with mouse clicks, keyboard inputs, and more. Build complex automation workflows with an intuitive drag-and-drop interface and execute them with precision timing.
 
 ## Overview
